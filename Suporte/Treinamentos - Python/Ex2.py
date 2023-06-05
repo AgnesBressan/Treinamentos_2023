@@ -1,5 +1,5 @@
 """
-Exercicio 2 - Treinamento Python NRA- SEMEAR
+Exercicio 2 - Treinamento Python NRA SEMEAR
 Marco Soprani Tayar (Suporte)
 """
 
